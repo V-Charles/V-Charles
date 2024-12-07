@@ -88,20 +88,22 @@ In addition to sharing my projects here, I also share them on my LinkedIn profil
 />
 
 ### 📊 ***`Statistics`***
-
-<img
+<p>
+  <img
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api?username=V-Charles&show_icons=true&theme=radical&include_all_commits=true"
-/>
+  />
 
-<img
+  <img
     align="left"
     alt="GitHub Stats"
     height="200"
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Charles&theme=radical&layout=compact&custom_tittle=Technologies&langs_count=6"
-/>
+  />
+</p>
+
     
