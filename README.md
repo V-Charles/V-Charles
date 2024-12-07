@@ -1,4 +1,4 @@
-## 💻 Vinicius Charles
+# 💻 Vinicius Charles
 
 ***`Full Stack Developer`***
 
@@ -88,7 +88,7 @@ In addition to sharing my projects here, I also share them on my LinkedIn profil
 />
 
 ### 📊 ***`Statistics`***
-<p>
+<div style="display: flex; gap: 20px;">
   <img
     align="left"
     alt="GitHub Stats"
@@ -104,6 +104,6 @@ In addition to sharing my projects here, I also share them on my LinkedIn profil
     style="padding-right: 10px;"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=V-Charles&theme=radical&layout=compact&custom_tittle=Technologies&langs_count=6"
   />
-</p>
+</div>
 
     
