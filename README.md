@@ -8,7 +8,7 @@ I am currently finishing the Technical Course in Systems Development through Sen
 
 I have always been fascinated by technology since childhood, which led me to choose this path as a developer—a profession I am truly passionate about.
 
-In addition to sharing my projects here, I also share them on my LinkedIn profile [Vinicius CHarles](https://www.linkedin.com/in/vinicius-charles). Feel free to connect with me and follow my journey!
+In addition to sharing my projects here, I also share them on my LinkedIn profile [Vinicius Charles](https://www.linkedin.com/in/vinicius-charles). Feel free to connect with me and follow my journey!
 
 ---
 
