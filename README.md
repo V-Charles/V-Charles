@@ -1,14 +1,12 @@
-# 💻 Vinicius Charles
+# 👨🏻‍💻 Hello! Welcome to my profile!
 
 ***`Full Stack Developer`***
 
-My name is Vinicius Charles, I am 26 years old, and I am from São Paulo - SP.
+My name is Vinicius Charles, and i am a student of Internet Systems Technology and a Development Systems Technician.
 
-I am currently finishing the Technical Course in Systems Development through Senac EAD, and soon I will start the Technology in Internet Systems program at Senac SP.
+I have a special passion for Full-Stack development because i enjoy both the challenges of bak-end programming and the creativity involved in designing front-end interfaces.
 
-I have always been fascinated by technology since childhood, which led me to choose this path as a developer—a profession I am truly passionate about.
-
-In addition to sharing my projects here, I also share them on my LinkedIn profile [Vinicius Charles](https://www.linkedin.com/in/vinicius-charles). Feel free to connect with me and follow my journey!
+I'm focusedd on continuously improving my skills and developing complete solutions that combine functionality and design. If you'd like to follow my journey or explore the projects i've worked on, check out my portfolio! [Vinicius Charles](https://www.linkedin.com/in/vinicius-charles)
 
 ---
 
