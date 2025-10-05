@@ -2,11 +2,11 @@
 
 ***`Full Stack Developer`***
 
-My name is Vinicius Charles, and i am a student of Internet Systems Technology and a Development Systems Technician.
+I'm Vinicius Charles, currently studying Internet Systems Technology and working as a Systems Development Technician.
 
-I have a special passion for Full-Stack development because i enjoy both the challenges of bak-end programming and the creativity involved in designing front-end interfaces.
+I'm passionate about Full-Stack development, as I enjoy both the logical challenges of back-end programming and the creative process of building front-end interfaces.
 
-I'm focusedd on continuously improving my skills and developing complete solutions that combine functionality and design. If you'd like to follow my journey or explore the projects i've worked on, check out my portfolio!
+I'm dedicated to continuously improving my skills and delivering complete solutions that are both functional and well-designed. Feel free to explore my portfolio to see my projects and follow my work!
 
 ---
 
