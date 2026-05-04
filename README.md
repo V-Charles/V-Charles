@@ -1,6 +1,6 @@
-<h1 align="center">Hi! I'm Vinicius Charles 👋</h1>
-
-###
+<div align="center">
+  <img width="1584" height="396" alt="Image" src="https://github.com/user-attachments/assets/6da2b1db-620a-4eca-aa75-26b499916a2c" />
+</div>
 
 <div align="center">
 <table>
@@ -18,7 +18,7 @@ I am a Systems Development Technician currently pursuing a degree in Internet Sy
 - 💻 Core expertise: Backend Development with Java
 - 🌐 Full-stack capabilities for complete system integration
 
-![](https://streak-stats.demolab.com/?user=V-Charles&theme=transparent&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=V-Charles&theme=dark&background=transparent&hide_border=true&ring=C4A484&fire=C4A484&currStreakNum=C4A484)<br/>
 
 ---
 
@@ -74,7 +74,7 @@ I am a Systems Development Technician currently pursuing a degree in Internet Sy
 
   <div align="center">
     <br>
-    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=V-Charles&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000" alt="languages graph" />
+    <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=V-Charles&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000&title_color=C4A484" alt="languages graph" />
   </div>
 </div>
 
